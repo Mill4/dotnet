@@ -1,0 +1,1 @@
+Created this project as part of my bachelor thesis when I was investigating about serverless web applications. In my thesis I compared serverless to other architectures. 
